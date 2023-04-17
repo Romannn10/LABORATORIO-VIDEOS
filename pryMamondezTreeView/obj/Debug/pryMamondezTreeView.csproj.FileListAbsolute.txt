@@ -1,0 +1,16 @@
+C:\Users\Alumno\source\repos\pryMamondezTreeView\bin\Debug\pryMamondezTreeView.exe.config
+C:\Users\Alumno\source\repos\pryMamondezTreeView\bin\Debug\pryMamondezTreeView.exe
+C:\Users\Alumno\source\repos\pryMamondezTreeView\bin\Debug\pryMamondezTreeView.pdb
+C:\Users\Alumno\source\repos\pryMamondezTreeView\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alumno\source\repos\pryMamondezTreeView\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alumno\source\repos\pryMamondezTreeView\obj\Debug\pryMamondezTreeView.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\pryMamondezTreeView\obj\Debug\pryMamondezTreeView.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\pryMamondezTreeView\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alumno\source\repos\pryMamondezTreeView\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alumno\source\repos\pryMamondezTreeView\obj\Debug\pryMamondezTreeView.csproj.ResolveComReference.cache
+C:\Users\Alumno\source\repos\pryMamondezTreeView\obj\Debug\pryMamondezTreeView.frmVideos.resources
+C:\Users\Alumno\source\repos\pryMamondezTreeView\obj\Debug\pryMamondezTreeView.Properties.Resources.resources
+C:\Users\Alumno\source\repos\pryMamondezTreeView\obj\Debug\pryMamondezTreeView.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\pryMamondezTreeView\obj\Debug\pryMamondezTreeView.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\pryMamondezTreeView\obj\Debug\pryMamondezTreeView.exe
+C:\Users\Alumno\source\repos\pryMamondezTreeView\obj\Debug\pryMamondezTreeView.pdb
